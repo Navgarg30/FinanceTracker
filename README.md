@@ -1,45 +1,47 @@
 # 💰 FinanceTracker
 
-A cross-platform **personal finance tracking app** built with **Flutter**, enabling seamless experience on **Android, iOS, Web, and Desktop**.  
+A cross-platform *personal finance tracking app* built with *Flutter, enabling seamless experience on **Android, iOS, Web, and Desktop*.  
 Easily track transactions, visualize spending, and manage budgets — all from a single project codebase.
 
 ---
 
 ## ✨ Features
 
-- 🌍 **Multi-platform support**: Android, iOS, Web, Windows, macOS, Linux  
-- 💸 **Expense & income tracking**: Add, edit, delete financial entries with categories and notes  
-- 📊 **Dashboard & analytics**: Visual charts and summaries of spending, income, and trends  
-- 🏷️ **Category-wise insights**: Understand how much you're spending per category  
-- ☁️ **Cloud sync (optional)**: Integrate with Firebase or other services for cross-device sync  
+- 🌍 *Multi-platform support*: Android, iOS, Web, Windows, macOS, Linux  
+- 💸 *Expense & income tracking*: Add, edit, delete financial entries with categories and notes  
+- 📊 *Dashboard & analytics*: Visual charts and summaries of spending, income, and trends  
+- 🏷 *Category-wise insights*: Understand how much you're spending per category  
+- ☁ *Cloud sync (optional)*: Integrate with Firebase or other services for cross-device sync  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 | Layer       | Technology                                     |
 |-------------|------------------------------------------------|
-| **UI**      | Flutter                                        |
-| **State Mgmt** | Provider / Bloc / Riverpod / GetX (choose)  |
-| **Backend** | SQLite / Firebase / REST API (choose)          |
-| **Charts**  | charts_flutter / syncfusion_flutter_charts     |
-| **CI / Testing** | GitHub Actions / flutter_test             |
+| *UI*      | Flutter                                        |
+| *State Mgmt* | Provider / Bloc / Riverpod / GetX (choose)  |
+| *Backend* | SQLite / Firebase / REST API (choose)          |
+| *Charts*  | charts_flutter / syncfusion_flutter_charts     |
+| *CI / Testing* | GitHub Actions / flutter_test             |
 
 ---
 
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
-- Flutter installed (**version >= 3.0**)  
-- An IDE like **VS Code** or **Android Studio**
+- Flutter installed (*version >= 3.0*)  
+- An IDE like *VS Code* or *Android Studio*
 
 ### ⚡ Installation
 
-```bash
+bash
 git clone https://github.com/Navgarg30/FinanceTracker.git
 cd FinanceTracker
 flutter pub get
 flutter run
+
+
 To target specific platforms:
 
 bash
@@ -48,7 +50,12 @@ flutter run -d chrome    # Web
 flutter run -d windows   # Windows
 flutter run -d android   # Android
 # etc.
-📱 Usage
+
+
+---
+
+## 📱 Usage
+
 Launch the app on your preferred device/emulator
 
 Navigate to the Transactions tab to add or view entries
@@ -59,9 +66,11 @@ Use the Dashboard to spot category-wise spending trends
 
 Feel free to experiment with the UI, add charts, or enhance tracking logic!
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
+
 css
-Copy code
 /
 ├── android/       – Android platform code
 ├── ios/           – iOS platform code
@@ -75,26 +84,30 @@ Copy code
 ├── test/          – Unit and widget tests
 ├── pubspec.yaml   – Dependency config
 └── README.md      – This file
-🧪 Testing
+
+
+---
+
+## 🧪 Testing
 Run unit and widget tests with:
 
 bash
-Copy code
 flutter test
 Add your own tests under the test/ directory to maintain code quality and confidence.
 
-🤝 Contributing
+
+---
+
+## 🤝 Contributing
+
 Contributions are welcome! 🚀
 
 Fork the repo
 
-Create a feature branch → feature/my-feature
-
-Commit changes → git commit -m "Add my feature"
-
-Push branch → git push origin feature/my-feature
-
-Open a Pull Request with a clear description
+1. Create a feature branch → feature/my-feature
+2. Commit changes → git commit -m "Add my feature"
+3. Push branch → git push origin feature/my-feature
+4. Open a Pull Request with a clear description
 
 👉 Please ensure code follows Flutter best practices and is well-tested.
 
