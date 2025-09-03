@@ -121,11 +121,6 @@ Fork the repo
   <img src="./assets/Screenshots/4.jpg" width="300px" />
   <img src="./assets/Screenshots/5.jpg" width="300px" />
   <img src="./assets/Screenshots/6.jpg" width="300px" />
-  <br/>
-  <img src="./assets/Screenshots/7.jpg" width="300px" />
-  <img src="./assets/Screenshots/8.jpg" width="300px" />
-  <img src="./assets/Screenshots/9.jpg" width="300px" />
-  <br/>
-  <img src="./assets/Screenshots/10.jpg" width="300px" />
+  
 </p>
 
