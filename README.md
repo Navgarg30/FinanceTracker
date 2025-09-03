@@ -111,10 +111,21 @@ Fork the repo
 
 👉 Please ensure code follows Flutter best practices and is well-tested.
 
+## 📸 Screenshots  
 
-![image 1](./assets/Screenshots/1.jpg)
-![image 2](./assets/Screenshots/2.jpg)
-![image 3](./assets/Screenshots/3.jpg)
-![image 4](./assets/Screenshots/4.jpg)
-![image 5](./assets/Screenshots/5.jpg)
-![image 6](./assets/Screenshots/6.jpg)
+<p align="center">
+  <img src="./assets/Screenshots/1.jpg" width="300px" />
+  <img src="./assets/Screenshots/2.jpg" width="300px" />
+  <img src="./assets/Screenshots/3.jpg" width="300px" />
+  <br/>
+  <img src="./assets/Screenshots/4.jpg" width="300px" />
+  <img src="./assets/Screenshots/5.jpg" width="300px" />
+  <img src="./assets/Screenshots/6.jpg" width="300px" />
+  <br/>
+  <img src="./assets/Screenshots/7.jpg" width="300px" />
+  <img src="./assets/Screenshots/8.jpg" width="300px" />
+  <img src="./assets/Screenshots/9.jpg" width="300px" />
+  <br/>
+  <img src="./assets/Screenshots/10.jpg" width="300px" />
+</p>
+
